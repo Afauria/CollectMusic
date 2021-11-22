@@ -1,0 +1,4241 @@
+{
+    "result":
+    {
+        "songs":
+        [
+            {
+                "name": "相见恨晚",
+                "id": 280761,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 9102,
+                        "name": "彭佳慧",
+                        "tns":
+                        [],
+                        "alias":
+                        [
+                            "Julia Peng"
+                        ],
+                        "alia":
+                        [
+                            "Julia Peng"
+                        ]
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 100.0,
+                "st": 0,
+                "rt": "600902000009572681",
+                "fee": 8,
+                "v": 33,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 27909,
+                    "name": "美声荣耀",
+                    "picUrl": "http://p3.music.126.net/GpsgjHB_9XgtrBVXt8XX4w==/93458488373078.jpg",
+                    "tns":
+                    [],
+                    "pic": 93458488373078
+                },
+                "dt": 254760,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10193023,
+                    "vd": -38403.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6115831,
+                    "vd": -35795.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4077235,
+                    "vd": -34115.0
+                },
+                "a": null,
+                "cd": "1",
+                "no": 7,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 33,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 7001,
+                "mv": 5403169,
+                "publishTime": 1141142400000,
+                "privilege":
+                {
+                    "id": 280761,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 0,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 280731,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 9102,
+                        "name": "彭佳慧",
+                        "tns":
+                        [],
+                        "alias":
+                        [
+                            "Julia Peng"
+                        ],
+                        "alia":
+                        [
+                            "Julia Peng"
+                        ]
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 100.0,
+                "st": 0,
+                "rt": "600902000009572681",
+                "fee": 1,
+                "v": 22,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 27908,
+                    "name": "彭游恋歌 最爱精选",
+                    "picUrl": "http://p4.music.126.net/pYCJCdRHGtt9SNeZ7v4ERw==/109951164279260923.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951164279260923",
+                    "pic": 109951164279260923
+                },
+                "dt": 254533,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10183618,
+                    "vd": 1478.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6110188,
+                    "vd": -2.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4073473,
+                    "vd": -2.0
+                },
+                "a": null,
+                "cd": "1",
+                "no": 7,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 22,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 7001,
+                "mv": 0,
+                "publishTime": 1211212800000,
+                "privilege":
+                {
+                    "id": 280731,
+                    "fee": 1,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 0,
+                    "dl": 0,
+                    "sp": 0,
+                    "cp": 0,
+                    "subp": 0,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 0,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚 (Live)",
+                "id": 26191001,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 9102,
+                        "name": "彭佳慧",
+                        "tns":
+                        [],
+                        "alias":
+                        [
+                            "Julia Peng"
+                        ],
+                        "alia":
+                        [
+                            "Julia Peng"
+                        ]
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 95.0,
+                "st": 0,
+                "rt": "600902000005325238",
+                "fee": 0,
+                "v": 684,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 2415003,
+                    "name": "我是歌手第一季 总决赛",
+                    "picUrl": "http://p4.music.126.net/MG01RVbmHEsh6LVMKmvPpg==/2525578209026524.jpg",
+                    "tns":
+                    [],
+                    "pic": 2525578209026524
+                },
+                "dt": 269000,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10806532,
+                    "vd": -17325.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6483998,
+                    "vd": -17325.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4322731,
+                    "vd": -17325.0
+                },
+                "a": null,
+                "cd": "1",
+                "no": 14,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 684,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 404023,
+                "mv": 0,
+                "publishTime": 1365696000007,
+                "privilege":
+                {
+                    "id": 26191001,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 320000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 256,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 1345613758,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 29414807,
+                        "name": "陈冬霖",
+                        "tns":
+                        [
+                            "Dolin Chan"
+                        ],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 80.0,
+                "st": 0,
+                "rt": null,
+                "fee": 0,
+                "v": 30,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 75495597,
+                    "name": "相见恨晚",
+                    "picUrl": "http://p4.music.126.net/QDvbvdFEqi7SUGSp20Qk-Q==/109951164307027198.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951164307027198",
+                    "pic": 109951164307027198
+                },
+                "dt": 251043,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10044648,
+                    "vd": -14700.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6026806,
+                    "vd": -12300.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4017885,
+                    "vd": -10700.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 2,
+                "originSongSimpleData":
+                {
+                    "songId": 280731,
+                    "name": "相见恨晚",
+                    "artists":
+                    [
+                        {
+                            "id": 9102,
+                            "name": "彭佳慧"
+                        }
+                    ],
+                    "albumMeta":
+                    {
+                        "id": 27908,
+                        "name": "彭游恋歌 最爱精选"
+                    }
+                },
+                "resourceState": true,
+                "version": 30,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 1521129600000,
+                "privilege":
+                {
+                    "id": 1345613758,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 128,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚-修海",
+                "id": 1364227641,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 31762509,
+                        "name": "修海",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 65.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 3,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 78538386,
+                    "name": "抖音翻唱（完整版）",
+                    "picUrl": "http://p3.music.126.net/Vd3yBCozsCGFQt6y3fig3g==/109951164010894786.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951164010894786",
+                    "pic": 109951164010894786
+                },
+                "dt": 217544,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 8704044,
+                    "vd": -30545.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5222444,
+                    "vd": -27901.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3481644,
+                    "vd": -26100.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 2,
+                "originSongSimpleData":
+                {
+                    "songId": 400579394,
+                    "name": "相见恨晚",
+                    "artists":
+                    [
+                        {
+                            "id": 9102,
+                            "name": "彭佳慧"
+                        }
+                    ],
+                    "albumMeta":
+                    {
+                        "id": 34432086,
+                        "name": "最佳美声"
+                    }
+                },
+                "resourceState": true,
+                "version": 3,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege":
+                {
+                    "id": 1364227641,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 128,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 1410039307,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 30710836,
+                        "name": "北宇",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 10.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 5,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 84097237,
+                    "name": "相见恨晚",
+                    "picUrl": "http://p4.music.126.net/lSDxUFU3AeIRPrt38pCJzA==/109951164553641941.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951164553641941",
+                    "pic": 109951164553641941
+                },
+                "dt": 254354,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10176305,
+                    "vd": 32399.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6105800,
+                    "vd": 35038.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4070548,
+                    "vd": 36822.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 2,
+                "originSongSimpleData":
+                {
+                    "songId": 400579394,
+                    "name": "相见恨晚",
+                    "artists":
+                    [
+                        {
+                            "id": 9102,
+                            "name": "彭佳慧"
+                        }
+                    ],
+                    "albumMeta":
+                    {
+                        "id": 34432086,
+                        "name": "最佳美声"
+                    }
+                },
+                "resourceState": true,
+                "version": 5,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege":
+                {
+                    "id": 1410039307,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 128,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 400579394,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 9102,
+                        "name": "彭佳慧",
+                        "tns":
+                        [],
+                        "alias":
+                        [
+                            "Julia Peng"
+                        ],
+                        "alia":
+                        [
+                            "Julia Peng"
+                        ]
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 65.0,
+                "st": 0,
+                "rt": null,
+                "fee": 8,
+                "v": 16,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 34432086,
+                    "name": "最佳美声",
+                    "picUrl": "http://p4.music.126.net/3bBh6FCmVj1ssk7SWEulaQ==/109951165958816818.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951165958816818",
+                    "pic": 109951165958816818
+                },
+                "dt": 252499,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10101072,
+                    "vd": -38425.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6060661,
+                    "vd": -35852.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4040455,
+                    "vd": -34180.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 24,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 16,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 7001,
+                "mv": 0,
+                "publishTime": 1379347200000,
+                "privilege":
+                {
+                    "id": 400579394,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚(抖音热播版)",
+                "id": 1831425821,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 13922028,
+                        "name": "小恩俊",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 20.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 2,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 124885577,
+                    "name": "暗示分离",
+                    "picUrl": "http://p3.music.126.net/keGMQ2zTfN2nXucVz--8dA==/109951165825285552.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951165825285552",
+                    "pic": 109951165825285552
+                },
+                "dt": 173453,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 6940256,
+                    "vd": -98345.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 4164171,
+                    "vd": -95874.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 2776128,
+                    "vd": -94579.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 9,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 2,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416503,
+                "mv": 0,
+                "publishTime": 1546272000000,
+                "privilege":
+                {
+                    "id": 1831425821,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 256,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 27599532,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 0,
+                        "name": "徐倩",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 15.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 666,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 2643383,
+                    "name": "谁是大擂主 第十一期",
+                    "picUrl": "http://p4.music.126.net/P03UaGXGo0VEywBC0iGWOQ==/5684475115676421.jpg",
+                    "tns":
+                    [],
+                    "pic": 5684475115676421
+                },
+                "dt": 151488,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 6103788,
+                    "vd": 1.06
+                },
+                "m":
+                {
+                    "br": 160000,
+                    "fid": 0,
+                    "size": 3073068,
+                    "vd": 1.30806
+                },
+                "l":
+                {
+                    "br": 96000,
+                    "fid": 0,
+                    "size": 1860780,
+                    "vd": 0.899642
+                },
+                "a": null,
+                "cd": "1",
+                "no": 4,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 666,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 1376928000007,
+                "privilege":
+                {
+                    "id": 27599532,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 320000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 128,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚（席人指弹）",
+                "id": 1880449737,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 34563394,
+                        "name": "席人指弹",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 15.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 2,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 86450370,
+                    "name": "六弦琴的倾诉",
+                    "picUrl": "http://p4.music.126.net/NQtD8Fbwi1lQWMW_gdiI1g==/109951164799247787.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951164799247787",
+                    "pic": 109951164799247787
+                },
+                "dt": 197000,
+                "h":
+                {
+                    "br": 320002,
+                    "fid": 0,
+                    "size": 7882754,
+                    "vd": 8989.0
+                },
+                "m":
+                {
+                    "br": 192002,
+                    "fid": 0,
+                    "size": 4729670,
+                    "vd": 11639.0
+                },
+                "l":
+                {
+                    "br": 128002,
+                    "fid": 0,
+                    "size": 3153128,
+                    "vd": 13456.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 131200,
+                "originCoverType": 2,
+                "originSongSimpleData":
+                {
+                    "songId": 280731,
+                    "name": "相见恨晚",
+                    "artists":
+                    [
+                        {
+                            "id": 9102,
+                            "name": "彭佳慧"
+                        }
+                    ],
+                    "albumMeta":
+                    {
+                        "id": 27908,
+                        "name": "彭游恋歌 最爱精选"
+                    }
+                },
+                "resourceState": true,
+                "version": 2,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege":
+                {
+                    "id": 1880449737,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 129,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚 电吉他版（Cover 彭佳慧）",
+                "id": 480275479,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 12433327,
+                        "name": "石珈铭",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 35.0,
+                "st": 0,
+                "rt": null,
+                "fee": 0,
+                "v": 72,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 35533594,
+                    "name": "石珈铭改编吉他曲",
+                    "picUrl": "http://p4.music.126.net/rHjiK-15zc4hzRIx3azEUQ==/109951162934045701.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951162934045701",
+                    "pic": 109951162934045701
+                },
+                "dt": 221831,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 8875407,
+                    "vd": -26000.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 5325262,
+                    "vd": -23599.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 3550189,
+                    "vd": -21900.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 41,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 393216,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 72,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 1495255810869,
+                "privilege":
+                {
+                    "id": 480275479,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 320000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 128,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚【现场版翻唱】",
+                "id": 1358255781,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 30957971,
+                        "name": "张小牙",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 10.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 3,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 75302789,
+                    "name": "现场翻唱",
+                    "picUrl": "http://p4.music.126.net/WlEFQSI1nnTYynKd72g_0Q==/109951163819292724.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951163819292724",
+                    "pic": 109951163819292724
+                },
+                "dt": 251890,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10078085,
+                    "vd": 23000.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6046868,
+                    "vd": 25700.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4031260,
+                    "vd": 27400.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 2,
+                "originSongSimpleData":
+                {
+                    "songId": 400579394,
+                    "name": "相见恨晚",
+                    "artists":
+                    [
+                        {
+                            "id": 9102,
+                            "name": "彭佳慧"
+                        }
+                    ],
+                    "albumMeta":
+                    {
+                        "id": 34432086,
+                        "name": "最佳美声"
+                    }
+                },
+                "resourceState": true,
+                "version": 3,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege":
+                {
+                    "id": 1358255781,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 128,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 280896,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 9102,
+                        "name": "彭佳慧",
+                        "tns":
+                        [],
+                        "alias":
+                        [
+                            "Julia Peng"
+                        ],
+                        "alia":
+                        [
+                            "Julia Peng"
+                        ]
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 100.0,
+                "st": 0,
+                "rt": "600902000005325238",
+                "fee": 8,
+                "v": 16,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 27918,
+                    "name": "过程",
+                    "picUrl": "http://p4.music.126.net/NnsxikSqsU5Hl_6h1USknA==/109951164279257350.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951164279257350",
+                    "pic": 109951164279257350
+                },
+                "dt": 254000,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10185750,
+                    "vd": -2.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6111484,
+                    "vd": -2.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4074351,
+                    "vd": -2.0
+                },
+                "a": null,
+                "cd": "1",
+                "no": 12,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 16,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 7001,
+                "mv": 0,
+                "publishTime": 933436800000,
+                "privilege":
+                {
+                    "id": 280896,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 0,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 1402719116,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 32588489,
+                        "name": "留有声",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 100.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 3,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 81386226,
+                    "name": "这一生关于你的风景",
+                    "picUrl": "http://p3.music.126.net/SrM8CrUvgfEJdcelLWiQTg==/109951164351538245.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951164351538245",
+                    "pic": 109951164351538245
+                },
+                "dt": 39278,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 1573660,
+                    "vd": -66203.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 944213,
+                    "vd": -63560.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 629490,
+                    "vd": -61760.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 2,
+                "originSongSimpleData":
+                {
+                    "songId": 1304261719,
+                    "name": "相见恨晚",
+                    "artists":
+                    [
+                        {
+                            "id": 29810060,
+                            "name": "魏雪莹"
+                        }
+                    ],
+                    "albumMeta":
+                    {
+                        "id": 72382027,
+                        "name": "网络新歌速递8"
+                    }
+                },
+                "resourceState": true,
+                "version": 3,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege":
+                {
+                    "id": 1402719116,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 128,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 1375757071,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 12308433,
+                        "name": "Sevenking王七",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 15.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 4,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 79957853,
+                    "name": "巨力猫音乐翻唱合集",
+                    "picUrl": "http://p3.music.126.net/rD16eHzMGQ8WojecMk5SVw==/109951164189869131.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951164189869131",
+                    "pic": 109951164189869131
+                },
+                "dt": 255032,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10203472,
+                    "vd": -41453.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6122101,
+                    "vd": -38867.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4081415,
+                    "vd": -37244.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 2,
+                "originSongSimpleData":
+                {
+                    "songId": 400579394,
+                    "name": "相见恨晚",
+                    "artists":
+                    [
+                        {
+                            "id": 9102,
+                            "name": "彭佳慧"
+                        }
+                    ],
+                    "albumMeta":
+                    {
+                        "id": 34432086,
+                        "name": "最佳美声"
+                    }
+                },
+                "resourceState": true,
+                "version": 4,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege":
+                {
+                    "id": 1375757071,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 128,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 28111963,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 7371,
+                        "name": "曹芙嘉",
+                        "tns":
+                        [],
+                        "alias":
+                        [
+                            "曹蓓"
+                        ],
+                        "alia":
+                        [
+                            "曹蓓"
+                        ]
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 95.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 9,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 2732147,
+                    "name": "岁月如歌",
+                    "picUrl": "http://p4.music.126.net/19d51dPdWx-73zKNkga59w==/5762540441294126.jpg",
+                    "tns":
+                    [],
+                    "pic": 5762540441294126
+                },
+                "dt": 257720,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10311097,
+                    "vd": -62620.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6186675,
+                    "vd": -60074.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4124465,
+                    "vd": -58651.0
+                },
+                "a": null,
+                "cd": "1",
+                "no": 5,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 9,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1370823,
+                "mv": 0,
+                "publishTime": 1382284800007,
+                "privilege":
+                {
+                    "id": 28111963,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 0,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚·张双翼电吉他cover",
+                "id": 1475843678,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 12328314,
+                        "name": "张双翼",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 25.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 2,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 94713381,
+                    "name": "张双翼【电吉他·cover】",
+                    "picUrl": "http://p3.music.126.net/BUnAR0bJd6CoatlUidLIGA==/109951165289177357.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951165289177357",
+                    "pic": 109951165289177357
+                },
+                "dt": 35892,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 1438868,
+                    "vd": 37546.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 863338,
+                    "vd": 40188.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 575573,
+                    "vd": 41975.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 3,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 128,
+                "originCoverType": 2,
+                "originSongSimpleData":
+                {
+                    "songId": 280761,
+                    "name": "相见恨晚",
+                    "artists":
+                    [
+                        {
+                            "id": 9102,
+                            "name": "彭佳慧"
+                        }
+                    ],
+                    "albumMeta":
+                    {
+                        "id": 27909,
+                        "name": "美声荣耀"
+                    }
+                },
+                "resourceState": true,
+                "version": 2,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege":
+                {
+                    "id": 1475843678,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 129,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 288577,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 9275,
+                        "name": "苏慧伦",
+                        "tns":
+                        [],
+                        "alias":
+                        [
+                            "Tarcy Su"
+                        ],
+                        "alia":
+                        [
+                            "Tarcy Su"
+                        ]
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 25.0,
+                "st": 0,
+                "rt": "600902000008005042",
+                "fee": 8,
+                "v": 31,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 28634,
+                    "name": "满足",
+                    "picUrl": "http://p4.music.126.net/wRIpQ2LM2mMJGQVvYcEFDw==/109951165422730711.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951165422730711",
+                    "pic": 109951165422730711
+                },
+                "dt": 259000,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10382191,
+                    "vd": -2.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6229348,
+                    "vd": -2.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4152927,
+                    "vd": -2.0
+                },
+                "a": null,
+                "cd": "1",
+                "no": 4,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 1125899906850816,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 31,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 684010,
+                "mv": 10928677,
+                "publishTime": 812822400007,
+                "privilege":
+                {
+                    "id": 288577,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚（抖音片段）",
+                "id": 1461966050,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 34826356,
+                        "name": "徐心愉",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 20.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 2,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 92262708,
+                    "name": "短视频合集2",
+                    "picUrl": "http://p4.music.126.net/vIq1wOOIRBRnvMNrLECXfw==/109951165129242386.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951165129242386",
+                    "pic": 109951165129242386
+                },
+                "dt": 46628,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 1867276,
+                    "vd": -44351.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 1120383,
+                    "vd": -41740.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 746937,
+                    "vd": -40046.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 14,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 128,
+                "originCoverType": 2,
+                "originSongSimpleData":
+                {
+                    "songId": 280761,
+                    "name": "相见恨晚",
+                    "artists":
+                    [
+                        {
+                            "id": 9102,
+                            "name": "彭佳慧"
+                        }
+                    ],
+                    "albumMeta":
+                    {
+                        "id": 27909,
+                        "name": "美声荣耀"
+                    }
+                },
+                "resourceState": true,
+                "version": 2,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege":
+                {
+                    "id": 1461966050,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 320000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 129,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "硬汉",
+                "id": 28768120,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 13421,
+                        "name": "腰乐队",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 100.0,
+                "st": 0,
+                "rt": null,
+                "fee": 8,
+                "v": 17,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 2891023,
+                    "name": "相见恨晚",
+                    "picUrl": "http://p3.music.126.net/vlAsuR_7xkGYlthG92Z81A==/109951164144451252.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951164144451252",
+                    "pic": 109951164144451252
+                },
+                "dt": 437466,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 17501040,
+                    "vd": -57976.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 10500641,
+                    "vd": -55475.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 7000442,
+                    "vd": -54112.0
+                },
+                "a": null,
+                "cd": "1",
+                "no": 7,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 17,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416873,
+                "mv": 0,
+                "publishTime": 1406131200007,
+                "privilege":
+                {
+                    "id": 28768120,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 256,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 280922,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 9102,
+                        "name": "彭佳慧",
+                        "tns":
+                        [],
+                        "alias":
+                        [
+                            "Julia Peng"
+                        ],
+                        "alia":
+                        [
+                            "Julia Peng"
+                        ]
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 95.0,
+                "st": 0,
+                "rt": "600902000009572681",
+                "fee": 1,
+                "v": 24,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 27919,
+                    "name": "敲敲我的头",
+                    "picUrl": "http://p3.music.126.net/RzYhat53s2QJm86UP4uA3A==/109951165958685633.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951165958685633",
+                    "pic": 109951165958685633
+                },
+                "dt": 254760,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10193023,
+                    "vd": -38403.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6115831,
+                    "vd": -35795.0
+                },
+                "l": null,
+                "a": null,
+                "cd": "1",
+                "no": 3,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 1,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 24,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 7001,
+                "mv": 0,
+                "publishTime": 912787200000,
+                "privilege":
+                {
+                    "id": 280922,
+                    "fee": 1,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 0,
+                    "dl": 0,
+                    "sp": 0,
+                    "cp": 0,
+                    "subp": 0,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 0,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 5242116,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 122455,
+                        "name": "群星",
+                        "tns":
+                        [],
+                        "alias":
+                        [
+                            "华语群星"
+                        ],
+                        "alia":
+                        [
+                            "华语群星"
+                        ]
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 25.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 665,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 511329,
+                    "name": "低音王.人声低音测试",
+                    "picUrl": "http://p3.music.126.net/RmcbxdoCtZppUqjaWDueNQ==/104453604655950.jpg",
+                    "tns":
+                    [],
+                    "pic": 104453604655950
+                },
+                "dt": 266841,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10698826,
+                    "vd": -1.06
+                },
+                "m":
+                {
+                    "br": 160000,
+                    "fid": 0,
+                    "size": 5366191,
+                    "vd": -0.62
+                },
+                "l":
+                {
+                    "br": 96000,
+                    "fid": 0,
+                    "size": 3232719,
+                    "vd": -0.65
+                },
+                "a": null,
+                "cd": "1",
+                "no": 19,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 665,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 1263916800000,
+                "privilege":
+                {
+                    "id": 5242116,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 320000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 128,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 1894311585,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 50430378,
+                        "name": "庞小兵515",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 65.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 4,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 135885836,
+                    "name": "听见",
+                    "picUrl": "http://p4.music.126.net/IbSrfasHLEBVvKoKdUov9w==/109951166603448657.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951166603448657",
+                    "pic": 109951166603448657
+                },
+                "dt": 79594,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 3185938,
+                    "vd": -12191.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 1911580,
+                    "vd": -9599.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 1274401,
+                    "vd": -7961.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 11,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 131072,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 4,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege":
+                {
+                    "id": 1894311585,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 0,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 179527,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 6099,
+                        "name": "雨天",
+                        "tns":
+                        [],
+                        "alias":
+                        [
+                            "雨宗林"
+                        ],
+                        "alia":
+                        [
+                            "雨宗林"
+                        ]
+                    },
+                    {
+                        "id": 10249,
+                        "name": "杨蔓",
+                        "tns":
+                        [],
+                        "alias":
+                        [
+                            "杨漫"
+                        ],
+                        "alia":
+                        [
+                            "杨漫"
+                        ]
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 15.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 23,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 18142,
+                    "name": "世间情歌(贰)",
+                    "picUrl": "http://p4.music.126.net/yzoNYffW6z0E2sNSTa3MLA==/32985348847639.jpg",
+                    "tns":
+                    [],
+                    "pic": 32985348847639
+                },
+                "dt": 277225,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 11091635,
+                    "vd": -22000.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6654998,
+                    "vd": -19400.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4436679,
+                    "vd": -17500.0
+                },
+                "a": null,
+                "cd": "1",
+                "no": 6,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 8192,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 23,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 723018,
+                "mv": 0,
+                "publishTime": 1185897600000,
+                "privilege":
+                {
+                    "id": 179527,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 4,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "情书",
+                "id": 28768107,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 13421,
+                        "name": "腰乐队",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 95.0,
+                "st": 0,
+                "rt": null,
+                "fee": 8,
+                "v": 17,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 2891023,
+                    "name": "相见恨晚",
+                    "picUrl": "http://p3.music.126.net/vlAsuR_7xkGYlthG92Z81A==/109951164144451252.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951164144451252",
+                    "pic": 109951164144451252
+                },
+                "dt": 417680,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 16710052,
+                    "vd": -34408.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 10026049,
+                    "vd": -31812.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 6684047,
+                    "vd": -30133.0
+                },
+                "a": null,
+                "cd": "1",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 17,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416873,
+                "mv": 0,
+                "publishTime": 1406131200007,
+                "privilege":
+                {
+                    "id": 28768107,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 256,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚 ",
+                "id": 417594484,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 30165112,
+                        "name": "指尖流年",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 10.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 4,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 34742220,
+                    "name": "相见恨晚",
+                    "picUrl": "http://p3.music.126.net/chGH_omkbD_0B_1tfd_L1g==/18290375928404542.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "18290375928404542",
+                    "pic": 18290375928404542
+                },
+                "dt": 232368,
+                "h": null,
+                "m": null,
+                "l":
+                {
+                    "br": 96000,
+                    "fid": 0,
+                    "size": 2788668,
+                    "vd": -41000.0
+                },
+                "a": null,
+                "cd": "1",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 262144,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 4,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 1466222425400,
+                "privilege":
+                {
+                    "id": 417594484,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 96000,
+                    "dl": 96000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 96000,
+                    "fl": 96000,
+                    "toast": false,
+                    "flag": 128,
+                    "preSell": false,
+                    "playMaxbr": 96000,
+                    "downloadMaxbr": 96000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚（DJ慢摇版）",
+                "id": 1886491732,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 49292383,
+                        "name": "支小柱",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    },
+                    {
+                        "id": 32930872,
+                        "name": "小布丁",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    },
+                    {
+                        "id": 49085883,
+                        "name": "支先生",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 20.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 3,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 134670452,
+                    "name": "不是因为寂寞才想你",
+                    "picUrl": "http://p3.music.126.net/o4g6yuABfPuBVh1utrXOLA==/109951166513744775.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951166513744775",
+                    "pic": 109951166513744775
+                },
+                "dt": 266727,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10671587,
+                    "vd": -60036.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6402969,
+                    "vd": -57475.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4268661,
+                    "vd": -56104.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 4,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 128,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 3,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege":
+                {
+                    "id": 1886491732,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 999000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 129,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 1431838526,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 31164201,
+                        "name": "八囍乐队",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 10.0,
+                "st": 0,
+                "rt": "",
+                "fee": 8,
+                "v": 7,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 86602623,
+                    "name": "相见恨晚",
+                    "picUrl": "http://p4.music.126.net/1zdgKlNpTJvff2aM7rBxqg==/109951164814249107.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951164814249107",
+                    "pic": 109951164814249107
+                },
+                "dt": 288409,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 11538852,
+                    "vd": -39823.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 6923329,
+                    "vd": -37243.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 4615567,
+                    "vd": -35611.0
+                },
+                "a": null,
+                "cd": "01",
+                "no": 1,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 0,
+                "s_id": 0,
+                "mark": 64,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 7,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 0,
+                "privilege":
+                {
+                    "id": 1431838526,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 2,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "晚春",
+                "id": 28768123,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 13421,
+                        "name": "腰乐队",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 95.0,
+                "st": 0,
+                "rt": null,
+                "fee": 8,
+                "v": 17,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 2891023,
+                    "name": "相见恨晚",
+                    "picUrl": "http://p4.music.126.net/vlAsuR_7xkGYlthG92Z81A==/109951164144451252.jpg",
+                    "tns":
+                    [],
+                    "pic_str": "109951164144451252",
+                    "pic": 109951164144451252
+                },
+                "dt": 391720,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 15671423,
+                    "vd": -60431.0
+                },
+                "m":
+                {
+                    "br": 192000,
+                    "fid": 0,
+                    "size": 9402871,
+                    "vd": -57824.0
+                },
+                "l":
+                {
+                    "br": 128000,
+                    "fid": 0,
+                    "size": 6268595,
+                    "vd": -56139.0
+                },
+                "a": null,
+                "cd": "1",
+                "no": 8,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 1,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 17,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 1416873,
+                "mv": 0,
+                "publishTime": 1406131200007,
+                "privilege":
+                {
+                    "id": 28768123,
+                    "fee": 8,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 128000,
+                    "dl": 0,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 999000,
+                    "fl": 128000,
+                    "toast": false,
+                    "flag": 256,
+                    "preSell": false,
+                    "playMaxbr": 999000,
+                    "downloadMaxbr": 999000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            },
+            {
+                "name": "相见恨晚",
+                "id": 309468,
+                "pst": 0,
+                "t": 0,
+                "ar":
+                [
+                    {
+                        "id": 9969,
+                        "name": "馨予",
+                        "tns":
+                        [],
+                        "alias":
+                        []
+                    }
+                ],
+                "alia":
+                [],
+                "pop": 15.0,
+                "st": 0,
+                "rt": "",
+                "fee": 0,
+                "v": 3,
+                "crbt": null,
+                "cf": "",
+                "al":
+                {
+                    "id": 30715,
+                    "name": "青花瓷",
+                    "picUrl": "http://p3.music.126.net/SvnEw32CMNTeP70vba2pdw==/40681930241913.jpg",
+                    "tns":
+                    [],
+                    "pic": 40681930241913
+                },
+                "dt": 264960,
+                "h":
+                {
+                    "br": 320000,
+                    "fid": 0,
+                    "size": 10623719,
+                    "vd": -3.04
+                },
+                "m":
+                {
+                    "br": 160000,
+                    "fid": 0,
+                    "size": 5328177,
+                    "vd": -2.59
+                },
+                "l":
+                {
+                    "br": 96000,
+                    "fid": 0,
+                    "size": 3209960,
+                    "vd": -2.61
+                },
+                "a": null,
+                "cd": "1",
+                "no": 9,
+                "rtUrl": null,
+                "ftype": 0,
+                "rtUrls":
+                [],
+                "djId": 0,
+                "copyright": 2,
+                "s_id": 0,
+                "mark": 0,
+                "originCoverType": 0,
+                "originSongSimpleData": null,
+                "resourceState": true,
+                "version": 3,
+                "single": 0,
+                "noCopyrightRcmd": null,
+                "rtype": 0,
+                "rurl": null,
+                "mst": 9,
+                "cp": 0,
+                "mv": 0,
+                "publishTime": 1199808000000,
+                "privilege":
+                {
+                    "id": 309468,
+                    "fee": 0,
+                    "payed": 0,
+                    "st": 0,
+                    "pl": 320000,
+                    "dl": 320000,
+                    "sp": 7,
+                    "cp": 1,
+                    "subp": 1,
+                    "cs": false,
+                    "maxbr": 320000,
+                    "fl": 320000,
+                    "toast": false,
+                    "flag": 128,
+                    "preSell": false,
+                    "playMaxbr": 320000,
+                    "downloadMaxbr": 320000,
+                    "rscl": null,
+                    "freeTrialPrivilege":
+                    {
+                        "resConsumable": false,
+                        "userConsumable": false
+                    },
+                    "chargeInfoList":
+                    [
+                        {
+                            "rate": 128000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 192000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 320000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 0
+                        },
+                        {
+                            "rate": 999000,
+                            "chargeUrl": null,
+                            "chargeMessage": null,
+                            "chargeType": 1
+                        }
+                    ]
+                }
+            }
+        ],
+        "songCount": 190
+    },
+    "code": 200
+}
